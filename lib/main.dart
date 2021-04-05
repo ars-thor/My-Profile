@@ -45,7 +45,6 @@ class _MyProfileState extends State<MyProfile> {
                 fontSize: 20.0,
               ),
             ),
-          Text()
             Text(
               'Premium (29 Days)',
               style: TextStyle(
